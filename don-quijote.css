@@ -1,0 +1,44 @@
+/*                                           */
+/* Escriba su nombre                         */
+/*                                           */
+/* CSS ejercicio: Don  Quijote Capítulo 1    */
+/*                                           */
+/* Escriba la fecha                          */
+/*                                           */
+
+body {
+  font-family: sans-serif;
+  background-color: red;
+  color: yellow;
+}
+
+h1,
+h2 {
+  text-align: left;
+}
+
+p {
+  text-align: justify;
+  line-height: 150%;
+}
+
+footer {
+  border-top: black 3px solid;
+  color: black;
+}
+
+/* Cuando el viewport sea como mínimo 480px aplícame estas reglas CSS */
+@media (min-width: 480px) {
+  body {
+    color: blue;
+    background-color: green;
+  }
+}
+
+@media (min-width: 720px) {
+  body {
+    color: brown;
+    background: cyan;
+    border: 5px solid black;
+  }
+}
