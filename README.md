@@ -9,3 +9,7 @@
 Busca cómo usar la función "clamp"
 
 2. Haz un pantallazo donde se muestre calaremente donde puedes comprobar el valor en píxeles del tamaño de la fuente cuando el viewport es de 100px
+
+## Solución
+
+Solución por cortesía de [Jonathan Ruiz](https://github.com/Cynox336/don-quijote-plantillas)
